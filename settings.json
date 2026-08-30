@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SNGPS.aternos.me",
-    "port": 17856,
+    "ip": "SNGPS123.exaroton.me",
+    "port":25136,
     "version": "",
     "try-creative": false
   },
